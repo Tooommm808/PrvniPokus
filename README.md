@@ -7,3 +7,4 @@ Náš repozitář je prázdný a obsahuje:
 - nicota
 - tebe
 - crack
+## Githubos moreee
